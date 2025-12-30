@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm passionate about designing and building scalable systems.
+I'm passionate about designing and building scalable and maintainable systems.
 
 
 ## 🌐 Socials:
